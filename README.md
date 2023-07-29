@@ -59,4 +59,3 @@ language: "UTF-8"
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Sasha887?ext=contest)
 
-![snake gif](https://github.com/sasha10020/sasha10020/blob/output/github-contribution-grid-snake.gif)
